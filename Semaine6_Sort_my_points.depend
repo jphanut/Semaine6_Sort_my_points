@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646083849 source:/home/margauxhanut/ProjectC/Semaine6_Sort_my_points/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/mman.h>
+	<string.h>
+
